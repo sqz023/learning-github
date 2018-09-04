@@ -1,0 +1,16 @@
+commit 0b9448692a8b0d39bc36dcf0c1f670f30eedee79
+Author: Cloud User <ec2-user@ip-172-31-51-104.ec2.internal>
+Date:   Thu Aug 30 18:36:34 2018 +0000
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+index b618a61..1070e8a 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ this is a simple read me file
++Adding one more line and then i will see the difference b/w the commands
+diff --git a/this b/this
+deleted file mode 100644
+index e69de29..0000000
